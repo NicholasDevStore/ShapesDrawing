@@ -9,12 +9,16 @@
 - Jest
 - Flow
 
-##Live URL
+## Live URL
 https://shapefilter.herokuapp.com/
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn`
+
+Install all dependencies for a project.
 
 ### `yarn start`
 
